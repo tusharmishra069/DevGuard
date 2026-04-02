@@ -1,5 +1,11 @@
 # DevGuard 🔍
 
+## Screenshot
+
+![DevGuard TUI](./public/ss1.png)
+
+---
+
 **AI-powered code review CLI with interactive full-screen TUI and intelligent chatbot**
 
 DevGuard automates code review using AI providers (Groq, Anthropic, Google Gemini) with a beautiful terminal UI. Get instant feedback on security, performance, and code quality issues, then chat with an AI assistant to fix them directly.
@@ -29,12 +35,6 @@ DevGuard automates code review using AI providers (Groq, Anthropic, Google Gemin
 - JSON structured output
 - SARIF for IDE integration
 - Terminal pretty-printing
-
-## Screenshot
-
-![DevGuard TUI](./public/ss1.png)
-
----
 
 ## Getting Started
 
