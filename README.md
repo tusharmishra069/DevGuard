@@ -32,7 +32,7 @@ DevGuard automates code review using AI providers (Groq, Anthropic, Google Gemin
 
 ## Screenshot
 
-![DevGuard TUI](./public/Screenshot%202026-04-02%20at%206.30.56%20PM.png)
+![DevGuard TUI](./public/ss1.png)
 
 ---
 
