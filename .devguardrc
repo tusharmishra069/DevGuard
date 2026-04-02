@@ -1,0 +1,14 @@
+{
+  "provider": "groq",
+  "model": "llama-3.3-70b-versatile",
+  "agents": [
+    "bug-hunter",
+    "security-scan",
+    "performance-check",
+    "style-guide",
+    "test-coverage"
+  ],
+  "exclude": [],
+  "maxFileSizeKB": 300,
+  "customRules": []
+}
